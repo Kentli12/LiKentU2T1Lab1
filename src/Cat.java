@@ -34,6 +34,6 @@ public class Cat {
     }
     public void printCatToy() {
         System.out.println("My favorite toy is" + toy);
-
+//test
     }
 }
