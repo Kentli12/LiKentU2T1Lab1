@@ -33,7 +33,7 @@ public class Cat {
         System.out.println("Weight: " + weight);
     }
     public void printCatToy() {
-        System.out.println("My favorite toy is" + toy);
+        System.out.println("My favorite toy is " + toy);
 //test
     }
 }
